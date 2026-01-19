@@ -27,12 +27,16 @@ Modern UI: Deep charcoal aesthetic with glassmorphism navigation to keep the foc
 
 Micro-interactions: Interactive hover states and smooth scrolling for an immersive user experience.
 
+
+
 📂 Project Structure
 ├── index.html          # Main gallery and content structure
 ├── styles.css          # Custom dark theme and layout styles
 ├── script.js           # AOS and GLightbox initialization
 └── assets/
     └── photos/         # High-resolution original photography
+
+    
 Installation & Local Development
 Clone the repository:git clone https://github.com/gireeshtripuraneni/Gireesh-Photography.git
 Open the project: Open the folder in your preferred editor (VS Code recommended).
