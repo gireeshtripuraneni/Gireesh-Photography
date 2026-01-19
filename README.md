@@ -1,4 +1,5 @@
 Gireesh Photography Showcase
+
 A minimalist, high-performance photography portfolio showcasing a curated collection of temples, architecture, landscapes, and portraits. This project serves as a digital gallery for my work, emphasizing perspective and post-processing in mobile photography.
 
 View Live Site
